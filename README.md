@@ -12,3 +12,7 @@ Trasnport Authority Module: This module is for the transport authority who will 
                             Can view feedbacks provided by students.
 
 The project is developed using HTML, CSS, Javascript and Firebase.
+
+Developed by:
+20CS065 Kishan Prajapati
+20CS057 Shivam Patel
