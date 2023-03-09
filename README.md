@@ -36,22 +36,22 @@ Student booking details <br>
 <img src="https://user-images.githubusercontent.com/88047746/223926396-4aef72ec-d675-4477-9206-c6ad67135244.png" width="600px" height="300px">
 
 View Feedback Page <br>
-<img src="https://user-images.githubusercontent.com/88047746/223928897-c3a94df4-6008-4036-a1f2-f6b00fc953e0.png" width="300px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223928897-c3a94df4-6008-4036-a1f2-f6b00fc953e0.png" width="300px" height="600px">
 
 <b>Student Module</b> <br>
 
 Registration page <br>
-<img src="https://user-images.githubusercontent.com/88047746/223929210-930ea9d3-d8fe-474e-8ee1-19907f893b01.png" width="600px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223929210-930ea9d3-d8fe-474e-8ee1-19907f893b01.png" width="300px" height="300px">
 
 Login Page <br>
 <img src="https://user-images.githubusercontent.com/88047746/223929443-5d2ff0b2-f631-45b3-81ba-446f10638437.png" width="300px" height="300px">
 
 Transport Details page <br>
-<img src="https://user-images.githubusercontent.com/88047746/223929531-21f0fa62-ba1f-48a3-a129-f3f0e43798a1.png" width="300px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223929531-21f0fa62-ba1f-48a3-a129-f3f0e43798a1.png" width="500px" height="300px">
 
 Book Transport Page <br>
-<img src="https://user-images.githubusercontent.com/88047746/223929620-97dac9c9-f232-46af-a8ea-a1f6026cdb87.png" width="300px" height="300px">
-<img src="https://user-images.githubusercontent.com/88047746/223929681-20189dc3-edf7-487f-baeb-5fa4bce1b124.png" width="300px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223929620-97dac9c9-f232-46af-a8ea-a1f6026cdb87.png" width="600px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223929681-20189dc3-edf7-487f-baeb-5fa4bce1b124.png" width="600px" height="300px">
 
 Give feedback page <br>
 <img src="https://user-images.githubusercontent.com/88047746/223926673-45784a0c-ec31-4aa9-a714-d9a577e3d80e.png" width="600px" height="300px">
