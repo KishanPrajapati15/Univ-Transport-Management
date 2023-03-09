@@ -29,6 +29,7 @@ Developed by:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/88047746/223927868-26082fc2-4a7e-4245-9d78-708716b37756.png">
 
+<img src="https://user-images.githubusercontent.com/88047746/223928490-30aec2f5-4653-42a6-9c8b-cbbb9a0bd463.png" width="300px" height="300px">
 
 <img src="https://user-images.githubusercontent.com/88047746/223926396-4aef72ec-d675-4477-9206-c6ad67135244.png" width="600px" height="300px">
 
