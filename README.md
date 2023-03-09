@@ -50,7 +50,7 @@ Transport Details page <br>
 <img src="https://user-images.githubusercontent.com/88047746/223929531-21f0fa62-ba1f-48a3-a129-f3f0e43798a1.png" width="500px" height="300px">
 
 Book Transport Page <br>
-<img src="https://user-images.githubusercontent.com/88047746/223929620-97dac9c9-f232-46af-a8ea-a1f6026cdb87.png" width="500px" height="300px">
+<img src="https://user-images.githubusercontent.com/88047746/223929620-97dac9c9-f232-46af-a8ea-a1f6026cdb87.png" width="500px" height="300px"><br>
 <img src="https://user-images.githubusercontent.com/88047746/223929681-20189dc3-edf7-487f-baeb-5fa4bce1b124.png" width="500px" height="300px">
 
 Give feedback page <br>
