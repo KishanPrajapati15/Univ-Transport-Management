@@ -18,4 +18,4 @@ Developed by:
 20CS057 Shivam Patel
 
 <!-- ![Screenshot (6)](https://user-images.githubusercontent.com/88047746/223925716-5a01abc8-5bee-4181-8623-1eebaf376970.png) -->
-<img src="https://user-images.githubusercontent.com/88047746/223925716-5a01abc8-5bee-4181-8623-1eebaf376970.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/88047746/223925716-5a01abc8-5bee-4181-8623-1eebaf376970.png" width="100" height="40%">
